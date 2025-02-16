@@ -1,8 +1,8 @@
 ## Sean Gao
 
 ### :mortar_board: Education
-- M.S. @ [Western University](uwo.ca) `Sept 2021 ~ Sept 2022`
-- B.S. @ [University of Calgary](ucalgary.ca) `Sept 2017 ~ June 2021`
+- M.S. @ [Western University](https://uwo.ca) `Sept 2021 ~ Sept 2022`
+- B.S. @ [University of Calgary](https://ucalgary.ca) `Sept 2017 ~ June 2021`
 
 ### ⚡ Interests
 - Machine Learning
