@@ -19,7 +19,7 @@
 
 
 ### 📫 Contact 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sean.gao1@outlook.com) [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuanggao5678/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sean.gao1@outlook.com) [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seangao1/)
 
 ![Sean's github stats](https://github-readme-stats.vercel.app/api?username=seangao1&show_icons=true&theme=merko)
 
