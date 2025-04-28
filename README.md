@@ -11,7 +11,7 @@
 - Fintech
 
 ### Certificates
-- [CFA Level 2 passed (top 10% globally)](https://credentials.cfainstitute.org/f2b069e3-8785-4348-8299-ad6c590b5f56)
+- [Passed CFA Level 3]
 - [FRM (Financial Risk Manager)](https://my.garp.org/DigitalBadgeFRM?id=0035d00006hut1IAAQ)
 - [CSC (Canadian Securities Course)](https://www.credly.com/badges/1bc4b3f6-1b65-473e-a704-db254ed9ef52/linked_in_profile)
 
