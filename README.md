@@ -11,7 +11,7 @@
 - Fintech
 
 ### Certificates
-- CFA all 3 levels passed
+- [CFA all 3 levels passed](https://drive.google.com/drive/u/1/folders/1qqCdB1gPihE28G0RpPSe4TOfNDGIy3_V)
 - [FRM (Financial Risk Manager)](https://my.garp.org/DigitalBadgeFRM?id=0035d00006hut1IAAQ)
 - [CSC (Canadian Securities Course)](https://www.credly.com/badges/1bc4b3f6-1b65-473e-a704-db254ed9ef52/linked_in_profile)
 
