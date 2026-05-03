@@ -29,5 +29,5 @@
 
 ## 📫 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sean.gao1@outlook.com)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seangao1/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sean.gao1@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seangao1/)
