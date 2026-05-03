@@ -5,11 +5,11 @@
 
 ### 💼 Experience
 - **Co-Founder** @ Stealth AI Startup  
-  `2026 - Present · 5 mos`  
-  `Remote`
+  `2026 - Present
+ 
 
 - **Various roles**  
-  `2022 - 2026 · 4 yrs`  
+  `2022 - 2026 
   Data Scientist of Credit Risk at Wealthsimple; Senior Consultant of Anti-Money Laundering at Deloitte; Data Scientist at TD.
 
 ### ⚡ Interests
