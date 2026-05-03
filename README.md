@@ -9,7 +9,7 @@
 
 - **Various roles**  `2022 - 2026`
   
-  Data Scientist of Credit Risk at Wealthsimple; Senior Consultant of Anti-Money Laundering at Deloitte; Data Scientist at TD.
+  Data Scientist of Credit Risk at Wealthsimple; Senior Consultant of Anti-Money Laundering at Deloitte; Data Scientist of AI & Analytics at TD.
 
 ### ⚡ Interests
 - Machine Learning
