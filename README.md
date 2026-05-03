@@ -1,15 +1,14 @@
 ## Sean Gao
 
 ### :mortar_board: Education
-- B.S. @ [University of Calgary](https://ucalgary.ca) `Sept 2017 ~ June 2021`
+- B.S. @ [University of Calgary](https://ucalgary.ca) · **Math & CS** `Sept 2017 ~ June 2021`
 
 ### 💼 Experience
-- **Co-Founder** @ Stealth AI Startup  `2026 - `
- 
+- **Co-Founder** @ Stealth AI Startup `2026 - Present`
 
-- **Various roles**  `2022 - 2026`
+- **Various roles** `2022 - 2026`
   
-  Data Scientist of Credit Risk @ **Wealthsimple**; Senior Consultant of Anti-Money Laundering @ **Deloitte**; Data Scientist of AI & Analytics @ **TD**.
+  Data Scientist, Credit Risk @ **Wealthsimple**; Senior Consultant, Anti-Money Laundering @ **Deloitte**; Data Scientist, AI & Analytics @ **TD**.
 
 ### ⚡ Interests
 - Machine Learning
